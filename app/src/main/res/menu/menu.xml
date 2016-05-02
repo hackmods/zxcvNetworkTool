@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:id="@+id/action_test" android:title="Test Network"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_result" android:title="@string/results"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/action_settings" android:title="@string/settings"
+        android:orderInCategory="102" app:showAsAction="never" />
+    <item android:id="@+id/action_about" android:title="@string/about"
+        android:orderInCategory="103" app:showAsAction="never" />
+</menu>
